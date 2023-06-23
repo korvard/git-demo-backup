@@ -9,3 +9,5 @@ Shield by shield
 flowers in a vase
 shit in a suitcase
 --------------------------------------
+
+and this is new strings in feature branch
