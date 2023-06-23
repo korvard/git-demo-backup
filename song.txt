@@ -13,3 +13,6 @@ shit in a suitcase
 добавляем строки
 добавляем строки
 добавляем строки
+
+and this is new strings in feature branch
+
