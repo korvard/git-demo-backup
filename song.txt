@@ -10,9 +10,7 @@ flowers in a vase
 shit in a suitcase
 --------------------------------------
 
-добавляем строки
-добавляем строки
-добавляем строки
+testing adding tags
 
 and this is new strings in feature branch
 
